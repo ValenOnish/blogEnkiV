@@ -1,0 +1,7 @@
+log/**/*
+log
+tmp/**/*
+tmp
+config/database.yml
+.bundle
+*.log
